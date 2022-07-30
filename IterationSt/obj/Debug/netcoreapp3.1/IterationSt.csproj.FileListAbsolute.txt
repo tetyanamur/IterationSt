@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\IterationSt\IterationSt\bin\Debug\netcoreapp3.1\IterationSt.exe
+C:\Users\oksyp\repos\IterationSt\IterationSt\bin\Debug\netcoreapp3.1\IterationSt.deps.json
+C:\Users\oksyp\repos\IterationSt\IterationSt\bin\Debug\netcoreapp3.1\IterationSt.runtimeconfig.json
+C:\Users\oksyp\repos\IterationSt\IterationSt\bin\Debug\netcoreapp3.1\IterationSt.runtimeconfig.dev.json
+C:\Users\oksyp\repos\IterationSt\IterationSt\bin\Debug\netcoreapp3.1\IterationSt.dll
+C:\Users\oksyp\repos\IterationSt\IterationSt\bin\Debug\netcoreapp3.1\IterationSt.pdb
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.AssemblyInfo.cs
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.dll
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.pdb
+C:\Users\oksyp\repos\IterationSt\IterationSt\obj\Debug\netcoreapp3.1\IterationSt.genruntimeconfig.cache
